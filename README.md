@@ -53,4 +53,3 @@
 <img width="471" alt="image" src="https://github.com/danial29rus/banana_crypto_test/assets/70702619/37078b03-7e8e-4b11-b882-8a6dca7474ce">
 
 
-<img width="571" alt="image" src="https://github.com/danial29rus/banana_crypto_test/assets/70702619/f65b84eb-40a9-4040-bb6c-b3b0929c3e31">
